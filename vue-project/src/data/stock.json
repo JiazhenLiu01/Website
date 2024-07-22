@@ -1,0 +1,44 @@
+{
+  "donation_items": [
+    {
+      "item_name": "Clothing",
+      "quantity": 100
+    },
+    {
+      "item_name": "Shoes",
+      "quantity": 50
+    },
+    {
+      "item_name": "Books",
+      "quantity": 200
+    },
+    {
+      "item_name": "Toys",
+      "quantity": 150
+    },
+    {
+      "item_name": "Canned Food",
+      "quantity": 300
+    },
+    {
+      "item_name": "Blankets",
+      "quantity": 75
+    },
+    {
+      "item_name": "Hygiene Products",
+      "quantity": 250
+    },
+    {
+      "item_name": "School Supplies",
+      "quantity": 100
+    },
+    {
+      "item_name": "Electronics",
+      "quantity": 50
+    },
+    {
+      "item_name": "Furniture",
+      "quantity": 20
+    }
+  ]
+}

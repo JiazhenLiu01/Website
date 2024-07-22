@@ -1,0 +1,64 @@
+{
+    "donors_organizations": [
+      {
+        "donors_organizations_id": 1,
+        "name": "ABC Organization",
+        "address": "123 Main Street, City, State, Zip",
+        "contactPerson": "John Smith"
+      },
+      {
+        "donors_organizations_id": 2,
+        "name": "XYZ Foundation",
+        "address": "456 Elm Street, City, State, Zip",
+        "contactPerson": "Alice Johnson"
+      },
+      {
+        "donors_organizations_id": 3,
+        "name": "123 Charity",
+        "address": "789 Oak Street, City, State, Zip",
+        "contactPerson": "Michael Brown"
+      },
+      {
+        "donors_organizations_id": 4,
+        "name": "Community Services Inc.",
+        "address": "321 Pine Street, City, State, Zip",
+        "contactPerson": "Emily Davis"
+      },
+      {
+        "donors_organizations_id": 5,
+        "name": "Helping Hands Organization",
+        "address": "567 Cedar Street, City, State, Zip",
+        "contactPerson": "Robert Johnson"
+      },
+      {
+        "donors_organizations_id": 6,
+        "name": "Supportive Communities",
+        "address": "890 Maple Street, City, State, Zip",
+        "contactPerson": "Sophia Wilson"
+      },
+      {
+        "donors_organizations_id": 7,
+        "name": "Hope Foundation",
+        "address": "432 Birch Street, City, State, Zip",
+        "contactPerson": "David Anderson"
+      },
+      {
+        "donors_organizations_id": 8,
+        "name": "Caring Hearts Association",
+        "address": "765 Walnut Street, City, State, Zip",
+        "contactPerson": "Olivia Martinez"
+      },
+      {
+        "donors_organizations_id": 9,
+        "name": "United Charities",
+        "address": "876 Spruce Street, City, State, Zip",
+        "contactPerson": "James Lee"
+      },
+      {
+        "donors_organizations_id": 10,
+        "name": "Hope for All",
+        "address": "654 Oakwood Street, City, State, Zip",
+        "contactPerson": "Emma Thompson"
+      }
+    ]
+  }

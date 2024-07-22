@@ -1,0 +1,55 @@
+{ 
+    "recepients": [
+      {
+        "recepients_id": 1,
+        "name": "John Smith",
+        "age": 35,
+        "totalFamilyMembers": 4,
+        "mailingAddress": "123 Main Street, City, State, Zip",
+        "familyMembers": [
+          { "name": "Jane Smith", "age": 32 },
+          { "name": "Emily Smith", "age": 8 },
+          { "name": "Michael Smith", "age": 6 }
+        ]
+      },
+      {
+        "recepients_id": 2,
+        "name": "Alice Johnson",
+        "age": 42,
+        "totalFamilyMembers": 3,
+        "mailingAddress": "456 Elm Street, City, State, Zip",
+        "familyMembers": [
+          { "name": "David Johnson", "age": 45 },
+          { "name": "Sophia Johnson", "age": 10 }
+        ]
+      },
+      {
+        "recepients_id": 3,
+        "name": "Michael Brown",
+        "age": 28,
+        "totalFamilyMembers": 2,
+        "mailingAddress": "789 Oak Street, City, State, Zip",
+        "familyMembers": [
+          { "name": "Sarah Brown", "age": 25 }
+        ]
+      },
+      {
+        "recepients_id": 4,
+        "name": "Emily Davis",
+        "age": 50,
+        "totalFamilyMembers": 1,
+        "mailingAddress": "321 Pine Street, City, State, Zip",
+        "familyMembers": []
+      },
+      {
+        "recepients_id": 5,
+        "name": "Robert Johnson",
+        "age": 37,
+        "totalFamilyMembers": 2,
+        "mailingAddress": "567 Cedar Street, City, State, Zip",
+        "familyMembers": [
+          { "name": "Amy Johnson", "age": 35 }
+        ]
+      }
+    ]
+  }

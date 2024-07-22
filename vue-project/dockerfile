@@ -1,0 +1,20 @@
+# 基于Node.js镜像
+FROM node:lts-alpine
+
+# 设置工作目录
+WORKDIR /app
+
+# 将 `package.json` 和 `package-lock.json` 文件复制到工作目录
+COPY package*.json ./
+
+# 安装项目依赖
+RUN npm install
+
+# 复制项目文件到工作目录
+COPY . .
+
+# 映射5173端口到Docker外部
+EXPOSE 5173
+
+# 启动Vue.js服务
+CMD ["npm", "run", "dev"]

@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "name": "张三",
+    "age": 35
+  },
+  "contactInfo": {
+    "address": "北京市海淀区"
+  },
+  "identityInfo": [
+    {
+      "cardNumber": "123456789",
+      "idType": "身份证",
+      "nationality": "中国",
+      "expireDate": "2030-12-31",
+      "idPhotoOrPdfUrl": "http://example.com/path/to/idPhoto.pdf"
+    },
+    {
+      "cardNumber": "987654321",
+      "idType": "护照",
+      "nationality": "中国",
+      "expireDate": "2035-12-31",
+      "idPhotoOrPdfUrl": "http://example.com/path/to/idPhoto2.pdf"
+    }
+  ],
+  "familyMembers": [
+    {
+      "relationship": "妻子",
+      "name": "李四",
+      "age": 32,
+      "memberPhotoUrl": "http://example.com/path/to/memberPhoto.jpg",
+      "familyIdentityInfo": {
+        "cardNumber": "123456789",
+        "idType": "身份证",
+        "nationality": "中国",
+        "expireDate": "2030-12-31",
+        "idPhotoOrPdfUrl": "http://example.com/path/to/idPhoto.pdf"
+      }
+    },
+    {
+      "relationship": "儿子",
+      "name": "张五",
+      "age": 5,
+      "memberPhotoUrl": "http://example.com/path/to/memberPhoto2.jpg",
+      "familyIdentityInfo": {
+        "cardNumber": "123456789",
+        "idType": "身份证",
+        "nationality": "中国",
+        "expireDate": "2030-12-31",
+        "idPhotoOrPdfUrl": "http://example.com/path/to/idPhoto.pdf"
+      }
+    }
+  ]
+}

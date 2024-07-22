@@ -1,0 +1,21 @@
+{
+    "donor_organization": {
+      "organizationID": 2880,  
+      "name": "Example Donor Organization",
+      "phone_number": "+61 2 1234 5678",
+      "email_address": "info@exampledonor.org",
+      "scope_of_business": "Philanthropy and Social Welfare",
+      "facebook": "https://www.facebook.com/exampledonor",
+      "website": "https://www.exampledonor.org",
+      "group_location": "Sydney, Australia",
+      "address": "456 Market St, Sydney, NSW 2000",
+      "identity_documents": [
+        {
+          "Organization_Identify_Document_Type": "Australian_Business_Number_Certificate",
+          "Organization_Identify_Document_Number": "ORG12345",
+          "Organization_Identify_Document_Expired_Date": "2026-12-31",
+          "image": "Organization_Document.pdf"
+        }
+      ]
+    }
+  }
